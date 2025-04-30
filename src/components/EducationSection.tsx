@@ -21,7 +21,7 @@ const educationData: Education[] = [
     description: "",
   },
   {
-    degree: "IIntermediate",
+    degree: "Intermediate",
     institution: "Gurunanak Higher Senior Seconday School",
     duration: "2019 - 2021",
     location: "Ranchi, Jharkahnd",
